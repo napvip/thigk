@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "Sinh Nhat",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "server": {
+    "androidScheme": "https"
+  }
+}

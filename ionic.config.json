@@ -1,0 +1,7 @@
+{
+    "name": "Sinh Nhat",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react"
+}
